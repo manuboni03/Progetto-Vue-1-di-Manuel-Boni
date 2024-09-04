@@ -1,4 +1,4 @@
-#***Progetto Vue 1 di Manuel Boni***
+# ***Progetto Vue 1 di Manuel Boni***
 
 Questo è il mio progetto tramite uno dei framework di *Javascript*, **Vue Js**, del famoso gioco *Tic Tac Toe*
 
